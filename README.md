@@ -13,6 +13,6 @@ I'm a student of Universitas Sumatera Utara. Passionate about management, event 
 
 
 ## 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true)
 
 🚀 *Let's connect and collaborate!*
